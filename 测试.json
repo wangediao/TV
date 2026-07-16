@@ -1,8 +1,8 @@
 {
     "sites": [
         {
-            "key": "line1",
-            "name": "4k",
+            "key": "ziyong",
+            "name": "自用线路",
             "type": 1,
             "api": "https://xn--yxxy-mb1gy821b.v.nxog.top/apib?id=2",
             "search": 1
